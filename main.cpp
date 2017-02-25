@@ -1,11 +1,6 @@
 #include <iostream>
 #include <math.h>
-
-#ifdef __linux__
-#include "SDL/SDL.h"
-#elif _WIN32
-#include <SDL\SDL.h>
-#endif
+#include "SDL2/SDL.h"
 
 #include "vector.h"
 

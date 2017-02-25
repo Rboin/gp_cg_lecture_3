@@ -5,8 +5,8 @@
 #ifndef LEC_3_VECTOR_H
 #define LEC_3_VECTOR_H
 
-#include <SDL/SDL_rect.h>
-#include <SDL/SDL_render.h>
+#include <SDL2/SDL_rect.h>
+#include <SDL2/SDL_render.h>
 
 struct s_vec2;
 struct s_mat2;
